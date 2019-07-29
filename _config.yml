@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Demo Website
+subtitle: for teaching purposes
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Just learning some web stuff.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+url: https://imnotamember.github.io/ # the base hostname & protocol for your site
+author: imnotanauthor
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+city: Lincoln
+state: NE
+zip_code: 00000
+country: someplace
+phone: 000-000-0000
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
